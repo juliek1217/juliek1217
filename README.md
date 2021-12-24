@@ -6,7 +6,7 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: <a href = "mailto: juliek1217@gmail.com">juliek1217@gmail.com</a>
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Building affordable automated farming system for my parents is my next goal
+- ⚡ Fun fact: Building affordable automated farming system for my parents is my next side project
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliek1217&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juliek1217&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
