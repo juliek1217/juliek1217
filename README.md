@@ -2,7 +2,7 @@
 <!-- - 🔭 I’m currently working on data analytics web & mobile app
 - 🌱 I’m currently learning redux & react and Ruby on Rails -->
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 🤔 I’m looking for help with ... --> 
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: <a href = "mailto: juliek1217@gmail.com">juliek1217@gmail.com</a>
 <!-- - 😄 Pronouns: ... -->
