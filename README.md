@@ -19,9 +19,9 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juliek1217&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 <br>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliek1217&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330) -->
 
-[<img src="https://activity-graph.herokuapp.com/graph?username=juliek1217&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliek1217&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330) -->
+<!-- [<img src="https://activity-graph.herokuapp.com/graph?username=juliek1217&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4) -->
 
 
 <p align="center" ><img src="https://github-readme-contributions.vercel.app/api/iso?username=juliek1217&theme=dark"></p>
