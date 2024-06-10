@@ -4,7 +4,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... --> 
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <a href = "mailto: juliek1217@gmail.com">juliek1217@gmail.com</a>
+<!-- - 📫 How to reach me: <a href = "mailto: juliek1217@gmail.com">juliek1217@gmail.com</a> -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: Building an affordable automated farming system for my parents is my next side project -->
 
